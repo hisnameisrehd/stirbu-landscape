@@ -1,6 +1,6 @@
 # Stirbu Landscape
 ## A WordPress site build
-site URL http://stirbu.web.dmitcapstone.ca/stirbu_landscape/
+site URL https://rnsprints.com/
 
 ## Usage
 This is a WordPress theme folder.
